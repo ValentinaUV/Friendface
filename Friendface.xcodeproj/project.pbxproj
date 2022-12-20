@@ -23,6 +23,7 @@
 		7D7E90EC2948A22E007835ED /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7E90EB2948A22E007835ED /* Coordinator.swift */; };
 		7DE637CA2950F6B200889630 /* FriendTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DE637C82950F6B200889630 /* FriendTableViewCell.swift */; };
 		7DE637CB2950F6B200889630 /* FriendTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7DE637C92950F6B200889630 /* FriendTableViewCell.xib */; };
+		7DE637CD2951CA7000889630 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 7DE637CC2951CA7000889630 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		7D7E90EB2948A22E007835ED /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
 		7DE637C82950F6B200889630 /* FriendTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FriendTableViewCell.swift; sourceTree = "<group>"; };
 		7DE637C92950F6B200889630 /* FriendTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FriendTableViewCell.xib; sourceTree = "<group>"; };
+		7DE637CC2951CA7000889630 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 		7D7E90C8294743D3007835ED /* Friendface */ = {
 			isa = PBXGroup;
 			children = (
+				7DE637CC2951CA7000889630 /* README.md */,
 				7DE637C42950EAFE00889630 /* App */,
 				7DE637C62950EB7900889630 /* Model */,
 				7DE637C72950EBE300889630 /* Supporting Files */,
@@ -189,6 +192,7 @@
 			files = (
 				7DE637CB2950F6B200889630 /* FriendTableViewCell.xib in Resources */,
 				7D7E90D6294743D4007835ED /* LaunchScreen.storyboard in Resources */,
+				7DE637CD2951CA7000889630 /* README.md in Resources */,
 				7D7E90D3294743D4007835ED /* Assets.xcassets in Resources */,
 				7D7E90D1294743D3007835ED /* Main.storyboard in Resources */,
 			);
